@@ -9,12 +9,27 @@
 #: supplementary: ... (same format, just a different key)
 #: #############################################################################
 primary:
-- name: ""
-  file: ""
-  covr: ""
-  tags: []
-  inst: []
+- name: "Welcome and Group Selection"
+  file: "welcome-group"
+  covr: "https://ugc.futurelearn.com/uploads/images/d3/4e/d34ec158-70f0-410c-bcc8-466a31e19e07.jpg"
+  tags: ["club"]
+  inst: ["AHKerrigan"]
   desc: >-
+    Welcome to the data science group! In this meeting, we will dive right in and immediately get
+    all members into a group based on project interests. In addition, group leaders will be assigned, 
+    and coordinators will facilitate narrowing down of projects. Get comfortable, as these will be your
+    teammates as you spend the semester tearing apart dataset after dataset!
+- name: "Using Machine Learning and Data Science to Understand the Titanic Disaster"
+  file: "titanic"
+  covr: "https://ugc.futurelearn.com/uploads/images/d3/4e/d34ec158-70f0-410c-bcc8-466a31e19e07.jpg"
+  tags: ["machine learning", "data science", "titanic", "statistics"]
+  inst: ["AHKerrigan"]
+  desc: >-
+    The titanic dataset is often considered the "hello world" of data science. In this workshop, we will
+    use this relatively simple dataset to help get you comfortable with the kind of workflow that will be 
+    used in the data science group. By the end of this workshop, all groups will be comfortable with the 
+    end-to-end process of data analysis, model selection, model fitting, and finally submission to kaggle.
+    As always, you will have the opporunity to compete with the other groups!
 
 supplementary:
 - name: ""

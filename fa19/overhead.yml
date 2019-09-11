@@ -10,6 +10,14 @@
 #:   supplementary: ... same as "primary"
 #: #############################################################################
 coordinators:
+  - github: "AHKerrigan"
+    role: "Director"
+  - github: "ionlights" 
+    role: "Coordinator"
+  - github: "AEHevia"
+    role: "Coordinator"
+  - github: "causallycausal"
+    role: "Coordinator"
 
 meetings:
   start_offset: 3  # how many weeks into the semester should we start?
