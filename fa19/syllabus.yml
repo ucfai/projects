@@ -8,7 +8,6 @@
 #:     <meeting-description>
 #: supplementary: ... (same format, just a different key)
 #: #############################################################################
-primary:
 - name: "Welcome and Group Selection"
   file: "welcome-group"
   covr: "https://ugc.futurelearn.com/uploads/images/d3/4e/d34ec158-70f0-410c-bcc8-466a31e19e07.jpg"
@@ -19,6 +18,7 @@ primary:
     all members into a group based on project interests. In addition, group leaders will be assigned, 
     and coordinators will facilitate narrowing down of projects. Get comfortable, as these will be your
     teammates as you spend the semester tearing apart dataset after dataset!
+
 - name: "Using Machine Learning and Data Science to Understand the Titanic Disaster"
   file: "titanic"
   covr: "https://ugc.futurelearn.com/uploads/images/d3/4e/d34ec158-70f0-410c-bcc8-466a31e19e07.jpg"
@@ -31,10 +31,3 @@ primary:
     end-to-end process of data analysis, model selection, model fitting, and finally submission to kaggle.
     As always, you will have the opporunity to compete with the other groups!
 
-supplementary:
-- name: ""
-  file: ""
-  covr: ""
-  tags: [""]
-  inst: [""]
-  desc: >-
