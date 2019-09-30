@@ -18,14 +18,7 @@ coordinators:
   role: "Coordinator"
 
 meetings:
-<<<<<<< HEAD
   start_offset: 4  # how many weeks into the semester should we start?
   wday: "Thu"  # what day of the week? (Mon, Tue, Wed, Thu, Fri, Sat, Sun)
   time: "1730-1930"  # military time (e.g. 1800-2000)
   room: "BIO 209"  # e.g. HEC 119
-=======
-  start_offset: 3  # how many weeks into the semester should we start?
-  wday: "Wed"  # what day of the week? (Mon, Tue, Wed, Thu, Fri, Sat, Sun)
-  time: "1730-1930"  # military time
-  room: "MSB 359"  # e.g. HEC 119
->>>>>>> 624d862... updating syllabi to follow new fmt
