@@ -15,7 +15,7 @@
     papers: []
     kaggle:
       datasets: []
-      competitions: [""]
+      competitions: []
       kernels: []
 
 - required:
@@ -35,19 +35,19 @@
     slides: ""
     papers: []
     kaggle:
-      datasets: ["c/titanic/data"]
+      datasets: []
       competitions: ["titanic"]
       kernels: []
 
 - required:
     title: "Using Data Science and Machine Learning to Answer the Important Question: Where's My Money?"
-    filename: "loan-default"
+    filename: "loan-defaults"
     cover: "https://www.usnews.com/dims4/USNEWS/8db4ec0/2147483647/thumbnail/640x420/quality/85/?url=http%3A%2F%2Fcom-usnews-beam-media.s3.amazonaws.com%2F4f%2F18053692c8e155903c849b01689992%2F47951widemodern_default_131001.jpg"
     instructors: ["causallycausal"]
     description: >-
     Perhaps the most common and popular application of data science is in the financial world. For years,
-    loan providers have had to work on intuition (and perhaps intellegence of underemployed math majors)
-    to determine who should and should not be recieving a loan. But now days, we can use fancy statistics 
+    loan providers have had to work on intuition (and perhaps intelligence of underemployed math majors)
+    to determine who should and should not be receiving a loan. But nowadays, we can use fancy statistics 
     and machine learning to determine who will default on a loan.
   optional:
     date: ""
