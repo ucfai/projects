@@ -41,7 +41,7 @@
 
 - required:
     title: "Using Data Science and Machine Learning to Answer the Important Question: Where's My Money?"
-    filename: "loan-defaults"
+    filename: "2019-10-03-loan-defaults.solution.ipynb"
     cover: "https://www.usnews.com/dims4/USNEWS/8db4ec0/2147483647/thumbnail/640x420/quality/85/?url=http%3A%2F%2Fcom-usnews-beam-media.s3.amazonaws.com%2F4f%2F18053692c8e155903c849b01689992%2F47951widemodern_default_131001.jpg"
     instructors: ["causallycausal"]
     description: >-
@@ -55,6 +55,6 @@
     slides: ""
     papers: []
     kaggle:
-      datasets: []
-      competitions: []
+      datasets: [""]
+      competitions: ["ucfai-dsg-fa19-default"]
       kernels: []
