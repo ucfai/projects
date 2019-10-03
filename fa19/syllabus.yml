@@ -45,7 +45,7 @@
 
 - required:
     title: "Using Data Science and Machine Learning to Answer the Important Question: Where's My Money?"
-    filename: "loan-defaults"
+    filename: "2019-10-03-loan-defaults.solution.ipynb"
     cover: "https://www.usnews.com/dims4/USNEWS/8db4ec0/2147483647/thumbnail/640x420/quality/85/?url=http%3A%2F%2Fcom-usnews-beam-media.s3.amazonaws.com%2F4f%2F18053692c8e155903c849b01689992%2F47951widemodern_default_131001.jpg"
     instructors: ["causallycausal"]
     description: >-
@@ -60,6 +60,125 @@
     slides: ""
     papers: []
     kaggle:
-      datasets: []
-      competitions: []
+      datasets: [""]
+      competitions: [""]
+      kernels: [""]
+
+- required:
+    title: "Using Data Science and Machine Learning to Answer the Important Question: Where's My Money? Part 2"
+    filename: "loan-default"
+    cover: "https://www.usnews.com/dims4/USNEWS/8db4ec0/2147483647/thumbnail/640x420/quality/85/?url=http%3A%2F%2Fcom-usnews-beam-media.s3.amazonaws.com%2F4f%2F18053692c8e155903c849b01689992%2F47951widemodern_default_131001.jpg"
+    instructors: ["causallycausal"]
+    description: >-
+    We continue our deep dive into the wonderful world of loan defaults. Does the loan grading of creditors line up
+    with what reality shows? Use machine learning to find out!
+  optional:
+    date: ""
+    tags: ["machine learning", "data science", "finance", "statistics"]
+    slides: ""
+    papers: []
+    kaggle:
+      datasets: [""]
+      competitions: ["ucfai-dsg-fa19-default"]
       kernels: []
+
+- required:
+    title: "Placeholder"
+    filename: "placeholder"
+    cover: "https://www.usnews.com/dims4/USNEWS/8db4ec0/2147483647/thumbnail/640x420/quality/85/?url=http%3A%2F%2Fcom-usnews-beam-media.s3.amazonaws.com%2F4f%2F18053692c8e155903c849b01689992%2F47951widemodern_default_131001.jpg"
+    instructors: ["AHKerrigan"]
+    description: >-
+    Placeholder
+  optional:
+    date: ""
+    tags: ["machine learning", "data science", "finance", "statistics"]
+    slides: ""
+    papers: []
+    kaggle:
+      datasets: [""]
+      competitions: [""]
+      kernels: []
+
+- required:
+    title: "Placeholder"
+    filename: "placeholder"
+    cover: "https://www.usnews.com/dims4/USNEWS/8db4ec0/2147483647/thumbnail/640x420/quality/85/?url=http%3A%2F%2Fcom-usnews-beam-media.s3.amazonaws.com%2F4f%2F18053692c8e155903c849b01689992%2F47951widemodern_default_131001.jpg"
+    instructors: ["AHKerrigan"]
+    description: >-
+    Placeholder
+  optional:
+    date: ""
+    tags: ["machine learning", "data science", "finance", "statistics"]
+    slides: ""
+    papers: []
+    kaggle:
+      datasets: [""]
+      competitions: [""]
+      kernels: []
+
+- required:
+    title: "Placeholder"
+    filename: "placeholder"
+    cover: "https://www.usnews.com/dims4/USNEWS/8db4ec0/2147483647/thumbnail/640x420/quality/85/?url=http%3A%2F%2Fcom-usnews-beam-media.s3.amazonaws.com%2F4f%2F18053692c8e155903c849b01689992%2F47951widemodern_default_131001.jpg"
+    instructors: ["AHKerrigan"]
+    description: >-
+    Placeholder
+  optional:
+    date: ""
+    tags: ["machine learning", "data science", "finance", "statistics"]
+    slides: ""
+    papers: []
+    kaggle:
+      datasets: [""]
+      competitions: [""]
+      kernels: []
+
+- required:
+    title: "Placeholder"
+    filename: "placeholder"
+    cover: "https://www.usnews.com/dims4/USNEWS/8db4ec0/2147483647/thumbnail/640x420/quality/85/?url=http%3A%2F%2Fcom-usnews-beam-media.s3.amazonaws.com%2F4f%2F18053692c8e155903c849b01689992%2F47951widemodern_default_131001.jpg"
+    instructors: ["AHKerrigan"]
+    description: >-
+    Placeholder
+  optional:
+    date: ""
+    tags: ["machine learning", "data science", "finance", "statistics"]
+    slides: ""
+    papers: []
+    kaggle:
+      datasets: [""]
+      competitions: [""]
+      kernels: []
+
+- required:
+    title: "Placeholder"
+    filename: "placeholder"
+    cover: "https://www.usnews.com/dims4/USNEWS/8db4ec0/2147483647/thumbnail/640x420/quality/85/?url=http%3A%2F%2Fcom-usnews-beam-media.s3.amazonaws.com%2F4f%2F18053692c8e155903c849b01689992%2F47951widemodern_default_131001.jpg"
+    instructors: ["AHKerrigan"]
+    description: >-
+    Placeholder
+  optional:
+    date: ""
+    tags: ["machine learning", "data science", "finance", "statistics"]
+    slides: ""
+    papers: []
+    kaggle:
+      datasets: [""]
+      competitions: [""]
+      kernels: []
+
+- required:
+    title: "Placeholder"
+    filename: "placeholder"
+    cover: "https://www.usnews.com/dims4/USNEWS/8db4ec0/2147483647/thumbnail/640x420/quality/85/?url=http%3A%2F%2Fcom-usnews-beam-media.s3.amazonaws.com%2F4f%2F18053692c8e155903c849b01689992%2F47951widemodern_default_131001.jpg"
+    instructors: ["AHKerrigan"]
+    description: >-
+    Placeholder
+  optional:
+    date: ""
+    tags: ["machine learning", "data science", "finance", "statistics"]
+    slides: ""
+    papers: []
+    kaggle:
+      datasets: [""]
+      competitions: [""]
