@@ -1,0 +1,13 @@
+{
+    "id": "ucfaibot/data science-fa19-placeholder",
+    "title": "data science-fa19-placeholder",
+    "code_file": "2019-10-24-placeholder.ipynb",
+    "language": "python",
+    "kernel_type": "notebook",
+    "is_private": false,
+    "enable_gpu": true,
+    "enable_internet": true,
+    "dataset_sources": [""],
+    "competition_sources": ["ucfai-data science-fa19-placeholder", ""],
+    "kernel_sources": []
+}

@@ -1,0 +1,13 @@
+{
+    "id": "ucfaibot/data science-fa19-loan-defaults-p2",
+    "title": "data science-fa19-loan-defaults-p2",
+    "code_file": "2019-10-10-loan-defaults-p2.ipynb",
+    "language": "python",
+    "kernel_type": "notebook",
+    "is_private": false,
+    "enable_gpu": true,
+    "enable_internet": true,
+    "dataset_sources": [""],
+    "competition_sources": ["ucfai-data science-fa19-loan-defaults-p2", "ucfai-dsg-fa19-default"],
+    "kernel_sources": []
+}

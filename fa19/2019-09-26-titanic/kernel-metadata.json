@@ -8,6 +8,6 @@
     "enable_gpu": true,
     "enable_internet": true,
     "dataset_sources": [],
-    "competition_sources": ["ucfai-data science-fa19-titanic"],
+    "competition_sources": ["ucfai-data science-fa19-titanic", "titanic"],
     "kernel_sources": []
 }
