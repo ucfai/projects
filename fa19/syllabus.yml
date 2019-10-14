@@ -60,9 +60,9 @@
     slides: ""
     papers: []
     kaggle:
-      datasets: [""]
-      competitions: [""]
-      kernels: [""]
+      datasets: []
+      competitions: []
+      kernels: []
 
 - required:
     title: "Answering the Important Question: Where's My Money? Part 2"
@@ -79,13 +79,13 @@
     slides: ""
     papers: []
     kaggle:
-      datasets: [""]
+      datasets: []
       competitions: ["ucfai-dsg-fa19-default"]
       kernels: []
 
 - required:
     title: "Introducing the NFL Big Data Bowl"
-    filename: "nfl"
+    filename: "nfl-intro"
     cover: "https://operations.nfl.com/media/3607/big-data-bowl_baked.jpg?anchor=center&mode=crop&width=1417&height=740&rnd=131956651790000000&quality=85"
     instructors: ["AHKerrigan"]
     description: >-
@@ -99,13 +99,13 @@
     slides: ""
     papers: []
     kaggle:
-      datasets: [""]
+      datasets: []
       competitions: ["nfl-big-data-bowl-2020"]
       kernels: []
 
 - required:
     title: "Big Data Bowl Deep Dive"
-    filename: "nfl"
+    filename: "nfl-deep-dive"
     cover: "https://oaklandnewsnow.com/wp-content/uploads/2018/08/National-Football-League-777x437.jpg"
     instructors: ["AHKerrigan"]
     description: >-
@@ -118,7 +118,7 @@
     slides: ""
     papers: []
     kaggle:
-      datasets: [""]
+      datasets: []
       competitions: ["nfl-big-data-bowl-2020"]
       kernels: []
 
@@ -135,8 +135,8 @@
     slides: ""
     papers: []
     kaggle:
-      datasets: [""]
-      competitions: [""]
+      datasets: []
+      competitions: []
       kernels: []
 
 - required:
@@ -152,8 +152,8 @@
     slides: ""
     papers: []
     kaggle:
-      datasets: [""]
-      competitions: [""]
+      datasets: []
+      competitions: []
       kernels: []
 
 - required:
@@ -169,8 +169,8 @@
     slides: ""
     papers: []
     kaggle:
-      datasets: [""]
-      competitions: [""]
+      datasets: []
+      competitions: []
       kernels: []
 
 - required:
@@ -186,5 +186,5 @@
     slides: ""
     papers: []
     kaggle:
-      datasets: [""]
-      competitions: [""]
+      datasets: []
+      competitions: []

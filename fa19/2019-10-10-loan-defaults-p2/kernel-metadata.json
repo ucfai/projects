@@ -7,7 +7,7 @@
     "is_private": false,
     "enable_gpu": true,
     "enable_internet": true,
-    "dataset_sources": [""],
+    "dataset_sources": [],
     "competition_sources": ["ucfai-data science-fa19-loan-defaults-p2", "ucfai-dsg-fa19-default"],
     "kernel_sources": []
 }
