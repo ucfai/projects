@@ -1,0 +1,13 @@
+{
+    "id": "ucfaibot/data science-fa19-nfl-intro",
+    "title": "data science-fa19-nfl-intro",
+    "code_file": "2019-10-17-nfl-intro.ipynb",
+    "language": "python",
+    "kernel_type": "notebook",
+    "is_private": false,
+    "enable_gpu": true,
+    "enable_internet": true,
+    "dataset_sources": [],
+    "competition_sources": ["ucfai-data science-fa19-nfl-intro", "nfl-big-data-bowl-2020"],
+    "kernel_sources": []
+}
