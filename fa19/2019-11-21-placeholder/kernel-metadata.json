@@ -7,7 +7,7 @@
     "is_private": false,
     "enable_gpu": true,
     "enable_internet": true,
-    "dataset_sources": [""],
-    "competition_sources": ["ucfai-data science-fa19-placeholder", ""],
+    "dataset_sources": [],
+    "competition_sources": ["ucfai-data science-fa19-placeholder"],
     "kernel_sources": 
 }
