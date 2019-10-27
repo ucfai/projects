@@ -1,13 +1,13 @@
 {
-    "id": "ucfaibot/data science-fa19-nfl-deep-dive",
-    "title": "data science-fa19-nfl-deep-dive",
+    "id": "ucfaibot/data-science-fa19-nfl-deep-dive",
+    "title": "data-science-fa19-nfl-deep-dive",
     "code_file": "2019-10-24-nfl-deep-dive.ipynb",
     "language": "python",
     "kernel_type": "notebook",
     "is_private": false,
-    "enable_gpu": true,
+    "enable_gpu": false,
     "enable_internet": true,
     "dataset_sources": [],
-    "competition_sources": ["ucfai-data science-fa19-nfl-deep-dive", "nfl-big-data-bowl-2020"],
+    "competition_sources": ["ucfai-data-science-fa19-nfl-deep-dive", "nfl-big-data-bowl-2020"],
     "kernel_sources": []
 }
