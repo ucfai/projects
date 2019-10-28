@@ -1,0 +1,13 @@
+{
+    "id": "ucfaibot/data-science-fa19-project-updates",
+    "title": "data-science-fa19-project-updates",
+    "code_file": "2019-10-31-project-updates.ipynb",
+    "language": "python",
+    "kernel_type": "notebook",
+    "is_private": false,
+    "enable_gpu": false,
+    "enable_internet": true,
+    "dataset_sources": [],
+    "competition_sources": ["ucfai-data-science-fa19-project-updates"],
+    "kernel_sources": []
+}

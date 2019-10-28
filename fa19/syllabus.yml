@@ -35,7 +35,7 @@
       opporunity to compete with the other groups!
   optional:
     date: ""
-    tags: ["machine learning", "data science", "titanic", "statistics"]
+    tags: ["machine-learning", "data science", "titanic", "statistics"]
     slides: ""
     papers: []
     kaggle:
@@ -56,7 +56,7 @@
       statistics and machine learning to determine who will default on a loan.
   optional:
     date: ""
-    tags: ["machine learning", "data science", "finance", "statistics"]
+    tags: ["machine-learning", "data science", "finance", "statistics"]
     slides: ""
     papers: []
     kaggle:
@@ -75,7 +75,7 @@
       learning to find out!
   optional:
     date: ""
-    tags: ["machine learning", "data science", "finance", "statistics"]
+    tags: ["machine-learning", "data science", "finance", "statistics"]
     slides: ""
     papers: []
     kaggle:
@@ -95,7 +95,7 @@
       and learn how to get started.
   optional:
     date: ""
-    tags: ["machine learning", "data science", "football", "competition"]
+    tags: ["machine-learning", "data science", "football", "competition"]
     slides: ""
     papers: []
     kaggle:
@@ -114,7 +114,7 @@
       with [AI@UCF]!
   optional:
     date: ""
-    tags: ["machine learning", "data science", "football", "competition"]
+    tags: ["machine-learning", "data science", "football", "competition"]
     slides: ""
     papers: []
     kaggle:
@@ -124,16 +124,17 @@
 
 - required:
     title: "Project Updates"
-    filename: "projectupdates"
+    filename: "project-updates"
     cover: "https://dv-website.s3.amazonaws.com/uploads/2019/04/pg_dmodml_052119.jpg"
     instructors: ["AHKerrigan"]
     description: >-
-      The groups will give the club an update on the progress of their project, and other
-      work they have been doing over the semester. We will use this time to catch up on concepts,
-      help each other with issues, and share new ideas.
+      The groups will give the club an update on the progress of their project
+      and other work they have been doing over the semester. We will use this
+      time to catch up on concepts, help each other with issues, and share new
+      ideas.
   optional:
     date: ""
-    tags: ["machine learning", "data science", "finance", "statistics"]
+    tags: ["machine-learning", "data science", "finance", "statistics"]
     slides: ""
     papers: []
     kaggle:
@@ -150,7 +151,7 @@
       Placeholder
   optional:
     date: ""
-    tags: ["machine learning", "data science", "finance", "statistics"]
+    tags: ["machine-learning", "data science", "finance", "statistics"]
     slides: ""
     papers: []
     kaggle:
@@ -167,7 +168,7 @@
       Placeholder
   optional:
     date: ""
-    tags: ["machine learning", "data science", "finance", "statistics"]
+    tags: ["machine-learning", "data science", "finance", "statistics"]
     slides: ""
     papers: []
     kaggle:
@@ -184,7 +185,7 @@
       Placeholder
   optional:
     date: ""
-    tags: ["machine learning", "data science", "finance", "statistics"]
+    tags: ["machine-learning", "data science", "finance", "statistics"]
     slides: ""
     papers: []
     kaggle:
