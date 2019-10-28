@@ -1,13 +1,13 @@
 {
-    "id": "ucfaibot/data science-fa19-titanic",
-    "title": "data science-fa19-titanic",
+    "id": "ucfaibot/data-science-fa19-titanic",
+    "title": "data-science-fa19-titanic",
     "code_file": "2019-09-26-titanic.ipynb",
     "language": "python",
     "kernel_type": "notebook",
     "is_private": false,
-    "enable_gpu": true,
+    "enable_gpu": false,
     "enable_internet": true,
     "dataset_sources": [],
-    "competition_sources": ["ucfai-data science-fa19-titanic", "titanic"],
+    "competition_sources": ["ucfai-data-science-fa19-titanic", "titanic"],
     "kernel_sources": []
 }

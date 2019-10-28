@@ -1,13 +1,13 @@
 {
-    "id": "ucfaibot/data science-fa19-welcome-group",
-    "title": "data science-fa19-welcome-group",
+    "id": "ucfaibot/data-science-fa19-welcome-group",
+    "title": "data-science-fa19-welcome-group",
     "code_file": "2019-09-19-welcome-group.ipynb",
     "language": "python",
     "kernel_type": "notebook",
     "is_private": false,
-    "enable_gpu": true,
+    "enable_gpu": false,
     "enable_internet": true,
     "dataset_sources": [],
-    "competition_sources": ["ucfai-data science-fa19-welcome-group"],
+    "competition_sources": ["ucfai-data-science-fa19-welcome-group"],
     "kernel_sources": []
 }
