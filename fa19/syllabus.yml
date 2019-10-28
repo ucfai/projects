@@ -123,12 +123,14 @@
       kernels: []
 
 - required:
-    title: "Placeholder"
-    filename: "placeholder"
-    cover: "https://www.usnews.com/dims4/USNEWS/8db4ec0/2147483647/thumbnail/640x420/quality/85/?url=http%3A%2F%2Fcom-usnews-beam-media.s3.amazonaws.com%2F4f%2F18053692c8e155903c849b01689992%2F47951widemodern_default_131001.jpg"
+    title: "Project Updates"
+    filename: "projectupdates"
+    cover: "https://dv-website.s3.amazonaws.com/uploads/2019/04/pg_dmodml_052119.jpg"
     instructors: ["AHKerrigan"]
     description: >-
-      Placeholder
+      The groups will give the club an update on the progress of their project, and other
+      work they have been doing over the semester. We will use this time to catch up on concepts,
+      help each other with issues, and share new ideas.
   optional:
     date: ""
     tags: ["machine learning", "data science", "finance", "statistics"]
