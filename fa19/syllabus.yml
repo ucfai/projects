@@ -143,20 +143,22 @@
       kernels: []
 
 - required:
-    title: "Placeholder"
-    filename: "placeholder"
+    title: "Foray into the 2019 Data Science Bowl"
+    filename: "data-sci-bowl"
     cover: "https://www.usnews.com/dims4/USNEWS/8db4ec0/2147483647/thumbnail/640x420/quality/85/?url=http%3A%2F%2Fcom-usnews-beam-media.s3.amazonaws.com%2F4f%2F18053692c8e155903c849b01689992%2F47951widemodern_default_131001.jpg"
-    instructors: ["AHKerrigan"]
+    instructors: ["ionlights"]
     description: >-
-      Placeholder
+      We'll be taking a dive into the Data Science Bowl from Kaggle, live-coding
+      style. Let's work through the dataset together and see what we can pull from
+      it to make some submissions. 
   optional:
     date: ""
-    tags: ["machine-learning", "data science", "finance", "statistics"]
+    tags: ["machine-learning", "data-science", "data-science-bowl", "live-coding"]
     slides: ""
     papers: []
     kaggle:
       datasets: []
-      competitions: []
+      competitions: ["data-science-bowl-2019"]
       kernels: []
 
 - required:
