@@ -162,12 +162,14 @@
       kernels: []
 
 - required:
-    title: "Placeholder"
+    title: "Continuing with Data Science for Social Good"
     filename: "placeholder"
     cover: "https://www.usnews.com/dims4/USNEWS/8db4ec0/2147483647/thumbnail/640x420/quality/85/?url=http%3A%2F%2Fcom-usnews-beam-media.s3.amazonaws.com%2F4f%2F18053692c8e155903c849b01689992%2F47951widemodern_default_131001.jpg"
-    instructors: ["AHKerrigan"]
+    instructors: ["ionlights]
     description: >-
-      Placeholder
+      John will continue to work with the gorup on the PBS Kids "Data Science
+      for Social Good" dataset. The group will further dive into what thought
+      processes go into learning and understanding a dataset at first glance
   optional:
     date: ""
     tags: ["machine-learning", "data science", "finance", "statistics"]
