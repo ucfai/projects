@@ -162,12 +162,13 @@
       kernels: []
 
 - required:
-    title: "Placeholder"
-    filename: "placeholder"
-    cover: "https://www.usnews.com/dims4/USNEWS/8db4ec0/2147483647/thumbnail/640x420/quality/85/?url=http%3A%2F%2Fcom-usnews-beam-media.s3.amazonaws.com%2F4f%2F18053692c8e155903c849b01689992%2F47951widemodern_default_131001.jpg"
+    title: "Checking in with the NFL Big Data Bowl
+    filename: "nfl-checkin"
+    cover: "https://oaklandnewsnow.com/wp-content/uploads/2018/08/National-Football-League-777x437.jpg"
     instructors: ["AHKerrigan"]
     description: >-
-      Placeholder
+      This week, we will take a look at where the NFL Big Data Bowl has gone in the months since it began. What exactly does the lifecycle of a competition look like? What can 
+      we learn by examining the ebb and flow of what new solutions have been devised? 
   optional:
     date: ""
     tags: ["machine-learning", "data science", "finance", "statistics"]
