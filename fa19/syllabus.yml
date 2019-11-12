@@ -35,7 +35,7 @@
       opporunity to compete with the other groups!
   optional:
     date: ""
-    tags: ["machine learning", "data science", "titanic", "statistics"]
+    tags: ["machine-learning", "data science", "titanic", "statistics"]
     slides: ""
     papers: []
     kaggle:
@@ -56,7 +56,7 @@
       statistics and machine learning to determine who will default on a loan.
   optional:
     date: ""
-    tags: ["machine learning", "data science", "finance", "statistics"]
+    tags: ["machine-learning", "data science", "finance", "statistics"]
     slides: ""
     papers: []
     kaggle:
@@ -75,7 +75,7 @@
       learning to find out!
   optional:
     date: ""
-    tags: ["machine learning", "data science", "finance", "statistics"]
+    tags: ["machine-learning", "data science", "finance", "statistics"]
     slides: ""
     papers: []
     kaggle:
@@ -95,7 +95,7 @@
       and learn how to get started.
   optional:
     date: ""
-    tags: ["machine learning", "data science", "football", "competition"]
+    tags: ["machine-learning", "data science", "football", "competition"]
     slides: ""
     papers: []
     kaggle:
@@ -114,7 +114,7 @@
       with [AI@UCF]!
   optional:
     date: ""
-    tags: ["machine learning", "data science", "football", "competition"]
+    tags: ["machine-learning", "data science", "football", "competition"]
     slides: ""
     papers: []
     kaggle:
@@ -123,6 +123,45 @@
       kernels: []
 
 - required:
+    title: "Project Updates"
+    filename: "project-updates"
+    cover: "https://dv-website.s3.amazonaws.com/uploads/2019/04/pg_dmodml_052119.jpg"
+    instructors: ["AHKerrigan"]
+    description: >-
+      The groups will give the club an update on the progress of their project
+      and other work they have been doing over the semester. We will use this
+      time to catch up on concepts, help each other with issues, and share new
+      ideas.
+  optional:
+    date: ""
+    tags: ["machine-learning", "data science", "finance", "statistics"]
+    slides: ""
+    papers: []
+    kaggle:
+      datasets: []
+      competitions: []
+      kernels: []
+
+- required:
+    title: "Data Science for Social Good, with PBS KIDS"
+    filename: "data-sci-bowl"
+    cover: "https://www.usnews.com/dims4/USNEWS/8db4ec0/2147483647/thumbnail/640x420/quality/85/?url=http%3A%2F%2Fcom-usnews-beam-media.s3.amazonaws.com%2F4f%2F18053692c8e155903c849b01689992%2F47951widemodern_default_131001.jpg"
+    instructors: ["ionlights"]
+    description: >-
+      We'll be taking a dive into the Data Science Bowl from Kaggle, live-coding
+      style. Let's work through the dataset together and see what we can pull from
+      it to make some submissions. 
+  optional:
+    date: ""
+    tags: ["machine-learning", "data-science", "data-science-bowl", "live-coding"]
+    slides: ""
+    papers: []
+    kaggle:
+      datasets: []
+      competitions: ["data-science-bowl-2019"]
+      kernels: []
+
+- required:
     title: "Placeholder"
     filename: "placeholder"
     cover: "https://www.usnews.com/dims4/USNEWS/8db4ec0/2147483647/thumbnail/640x420/quality/85/?url=http%3A%2F%2Fcom-usnews-beam-media.s3.amazonaws.com%2F4f%2F18053692c8e155903c849b01689992%2F47951widemodern_default_131001.jpg"
@@ -131,7 +170,7 @@
       Placeholder
   optional:
     date: ""
-    tags: ["machine learning", "data science", "finance", "statistics"]
+    tags: ["machine-learning", "data science", "finance", "statistics"]
     slides: ""
     papers: []
     kaggle:
@@ -148,41 +187,7 @@
       Placeholder
   optional:
     date: ""
-    tags: ["machine learning", "data science", "finance", "statistics"]
-    slides: ""
-    papers: []
-    kaggle:
-      datasets: []
-      competitions: []
-      kernels: []
-
-- required:
-    title: "Placeholder"
-    filename: "placeholder"
-    cover: "https://www.usnews.com/dims4/USNEWS/8db4ec0/2147483647/thumbnail/640x420/quality/85/?url=http%3A%2F%2Fcom-usnews-beam-media.s3.amazonaws.com%2F4f%2F18053692c8e155903c849b01689992%2F47951widemodern_default_131001.jpg"
-    instructors: ["AHKerrigan"]
-    description: >-
-      Placeholder
-  optional:
-    date: ""
-    tags: ["machine learning", "data science", "finance", "statistics"]
-    slides: ""
-    papers: []
-    kaggle:
-      datasets: []
-      competitions: []
-      kernels: []
-
-- required:
-    title: "Placeholder"
-    filename: "placeholder"
-    cover: "https://www.usnews.com/dims4/USNEWS/8db4ec0/2147483647/thumbnail/640x420/quality/85/?url=http%3A%2F%2Fcom-usnews-beam-media.s3.amazonaws.com%2F4f%2F18053692c8e155903c849b01689992%2F47951widemodern_default_131001.jpg"
-    instructors: ["AHKerrigan"]
-    description: >-
-      Placeholder
-  optional:
-    date: ""
-    tags: ["machine learning", "data science", "finance", "statistics"]
+    tags: ["machine-learning", "data science", "finance", "statistics"]
     slides: ""
     papers: []
     kaggle:
