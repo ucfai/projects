@@ -182,12 +182,13 @@
       kernels: []
 
 - required:
-    title: "Placeholder"
-    filename: "placeholder"
-    cover: "https://www.usnews.com/dims4/USNEWS/8db4ec0/2147483647/thumbnail/640x420/quality/85/?url=http%3A%2F%2Fcom-usnews-beam-media.s3.amazonaws.com%2F4f%2F18053692c8e155903c849b01689992%2F47951widemodern_default_131001.jpg"
+    title: "Project Presentations"
+    filename: "projects"
+    cover: "https://www.ataccama.com/assets/img/articles/machine-learning.png"
     instructors: ["AHKerrigan"]
     description: >-
-      Placeholder
+      The project groups will be presenting and giving an overview of what they worked on this semester!
+      Come out and learn about awesome machine learning applications developed by your fellow Knights!
   optional:
     date: ""
     tags: ["machine-learning", "data science", "finance", "statistics"]
