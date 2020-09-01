@@ -2,7 +2,7 @@
 name: projects
 room: 'Online'
 semester: fa20
-startdate: !Timestamp 2020-08-31 00:00:00
+startdate: !Timestamp 2020-09-10 18:00:00
 frequency: 2
 directors: ["nspeer12"]
 coordinators: ["bb912", "hevia", "SageJacob", "dan100ws", "cokeacolaking"]
