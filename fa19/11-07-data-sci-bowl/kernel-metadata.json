@@ -1,0 +1,16 @@
+{
+  "id": "ucfaibot/projects-fa19-data-sci-bowl",
+  "title": "projects-fa19-data-sci-bowl",
+  "code_file": "data-sci-bowl.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "dataset_sources": [],
+  "competition_sources": [
+    "data-science-bowl-2019",
+    "ucfai-projects-fa19-data-sci-bowl"
+  ],
+  "kernel_sources": []
+}

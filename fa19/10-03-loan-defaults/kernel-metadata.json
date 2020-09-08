@@ -1,0 +1,15 @@
+{
+  "id": "ucfaibot/projects-fa19-loan-defaults",
+  "title": "projects-fa19-loan-defaults",
+  "code_file": "loan-defaults.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "dataset_sources": [],
+  "competition_sources": [
+    "ucfai-projects-fa19-loan-defaults"
+  ],
+  "kernel_sources": []
+}

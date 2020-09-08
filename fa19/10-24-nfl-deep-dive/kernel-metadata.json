@@ -1,0 +1,16 @@
+{
+  "id": "ucfaibot/projects-fa19-nfl-deep-dive",
+  "title": "projects-fa19-nfl-deep-dive",
+  "code_file": "nfl-deep-dive.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "dataset_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2020",
+    "ucfai-projects-fa19-nfl-deep-dive"
+  ],
+  "kernel_sources": []
+}

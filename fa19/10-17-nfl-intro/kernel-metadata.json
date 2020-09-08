@@ -1,0 +1,16 @@
+{
+  "id": "ucfaibot/projects-fa19-nfl-intro",
+  "title": "projects-fa19-nfl-intro",
+  "code_file": "nfl-intro.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "dataset_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2020",
+    "ucfai-projects-fa19-nfl-intro"
+  ],
+  "kernel_sources": []
+}
