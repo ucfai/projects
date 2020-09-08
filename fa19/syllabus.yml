@@ -112,7 +112,7 @@
     id: 3e589fcdc955f69df131662e4428e5ba2a97cd1e6c2efe62037de2ee3b950bca
     date: !Timestamp 2019-10-31 17:30:00
     title: Project Updates
-    authors: [ahkerrigan, ]
+    authors: [ahkerrigan, ionlights, causallycausal, ]
     filename: project-updates
     cover-image: 'https://dv-website.s3.amazonaws.com/uploads/2019/04/pg_dmodml_052119.jpg'
     tags: [machine learning, data science, projects, ]
