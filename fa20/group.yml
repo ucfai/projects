@@ -1,12 +1,17 @@
 !Group
-name: projects
-room: 'Online'
-semester: fa20
-startdate: !Timestamp 2020-09-10 18:00:00
-frequency: 2
-directors: ["nspeer12"]
-coordinators: ["bb912", "hevia", "SageJacob", "dan100ws", "cokeacolaking"]
-guests: []
-push_kaggle: false
-needs_notebooks: false
-pull_papers: false
+required:
+  name: projects
+  room: 'Online'
+  semester: fa20
+  startdate: !Timestamp 2020-09-10 18:00:00
+  frequency: 2
+  directors: ["nspeer12"]
+  coordinators: ["bb912", "hevia", "SageJacob", "dan100ws", "cokeacolaking"]
+  guests: []
+  advisors: []
+  summary: >
+
+optional:
+  use-kaggle: false
+  use-notebooks: false
+  use-papers: false
