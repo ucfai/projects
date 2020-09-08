@@ -1,31 +1,33 @@
-- required:
-    title: "Welcome and Group Selection"
-    filename: "welcome-group"
-    cover: "https://ugc.futurelearn.com/uploads/images/d3/4e/d34ec158-70f0-410c-bcc8-466a31e19e07.jpg"
-    instructors: ["AHKerrigan", "ionlights", "causallycausal", "aehevia"]
-    description: >-
-      Welcome to the data science group! In this meeting, we will dive right in
+- !Meeting
+  required:
+    id: 8f863b4f2ad5d2600cb549cf885be1065f9423efbd7526a3f3e73457fab26bb7
+    date: !Timestamp 2019-09-19 17:30:00
+    title: Welcome & Group Selection
+    authors: [ahkerrigan, ionlights, causallycausal, hevia, ]
+    filename: welcome
+    cover-image: 'https://ugc.futurelearn.com/uploads/images/d3/4e/d34ec158-70f0-410c-bcc8-466a31e19e07.jpg'
+    tags: [club, ]
+    room: BIO 209
+    abstract: >-
+      Welcome to the Data Science group! In this meeting, we will dive right in
       and immediately get all members into a group based on project interests.
       In addition, group leaders will be assigned, and coordinators will
       facilitate narrowing down of projects. Get comfortable, as these will be
       your teammates as you spend the semester tearing apart dataset after
       dataset!
-  optional:
-    date: ""
-    tags: ["club"]
-    slides: ""
-    papers: []
-    kaggle:
-      datasets: []
-      competitions: []
-      kernels: []
-
-- required:
-    title: "Understanding the Titanic Disaster"
-    filename: "titanic"
-    cover: "https://ugc.futurelearn.com/uploads/images/d3/4e/d34ec158-70f0-410c-bcc8-466a31e19e07.jpg"
-    instructors: ["AHKerrigan"]
-    description: >-
+    use-notebooks: false
+  optional:  # All `optional` keys are enumerated in the Documentation
+- !Meeting
+  required:
+    id: f4e062e38f3af1c13d1bdd69d4316f7f887c276cccd3b6e262382c49dd4b9263
+    date: !Timestamp 2019-09-26 17:30:00
+    title: Understanding the Titanic Disaster
+    authors: [ahkerrigan, ]
+    filename: titanic
+    cover-image: 'https://ugc.futurelearn.com/uploads/images/d3/4e/d34ec158-70f0-410c-bcc8-466a31e19e07.jpg'
+    tags: [machine learning, data science, titanic, statistics, ]
+    room: BIO 209
+    abstract: >-
       The titanic dataset is often considered the "hello world" of data science.
       In this workshop, we will use this relatively simple dataset to help get
       you comfortable with the kind of workflow that will be used in the data
@@ -33,167 +35,143 @@
       with the end-to-end process of data analysis, model selection, model
       fitting, and finally submission to kaggle. As always, you will have the
       opporunity to compete with the other groups!
-  optional:
-    date: ""
-    tags: ["machine-learning", "data science", "titanic", "statistics"]
-    slides: ""
-    papers: []
+  optional:  # All `optional` keys are enumerated in the Documentation
     kaggle:
-      datasets: []
-      competitions: ["titanic"]
-      kernels: []
-
-- required:
-    title: "Answering the Important Question: Where's My Money?"
-    filename: "loan-defaults"
-    cover: "https://www.usnews.com/dims4/USNEWS/8db4ec0/2147483647/thumbnail/640x420/quality/85/?url=http%3A%2F%2Fcom-usnews-beam-media.s3.amazonaws.com%2F4f%2F18053692c8e155903c849b01689992%2F47951widemodern_default_131001.jpg"
-    instructors: ["causallycausal"]
-    description: >-
+      competitions: ["titanic", ]
+- !Meeting
+  required:
+    id: 6dc27ebdfd28b038c01891fea481029ae06bced5aae1c42b91c96609e98a8263
+    date: !Timestamp 2019-10-03 17:30:00
+    title: "Answering the Important Question: Where's my Money?"
+    authors: [causallycausal, ]
+    filename: loan-defaults
+    cover-image: 'https://com-usnews-beam-media.s3.amazonaws.com/4f/18053692c8e155903c849b01689992/47951widemodern_default_131001.jpg'
+    tags: [machine learning, data science, finance, statistics, ]
+    room: BIO 209
+    abstract: >-
       Perhaps the most common and popular application of data science is in the
       financial world. For years, loan providers have had to work on intuition
       (and perhaps intellegence of underemployed math majors) to determine who
       should and should not be recieving a loan. But now days, we can use fancy
       statistics and machine learning to determine who will default on a loan.
-  optional:
-    date: ""
-    tags: ["machine-learning", "data science", "finance", "statistics"]
-    slides: ""
-    papers: []
-    kaggle:
-      datasets: []
-      competitions: []
-      kernels: []
-
-- required:
-    title: "Answering the Important Question: Where's My Money? Part 2"
-    filename: "loan-defaults-p2"
-    cover: "https://www.usnews.com/dims4/USNEWS/8db4ec0/2147483647/thumbnail/640x420/quality/85/?url=http%3A%2F%2Fcom-usnews-beam-media.s3.amazonaws.com%2F4f%2F18053692c8e155903c849b01689992%2F47951widemodern_default_131001.jpg"
-    instructors: ["causallycausal"]
-    description: >-
+  optional:  # All `optional` keys are enumerated in the Documentation
+    kaggle: true
+- !Meeting
+  required:
+    id: f29fd30d995b70644cc34d151e5547f7da5c92fd1c1fb501ffd9fdfc4f0e3c04
+    date: !Timestamp 2019-10-10 17:30:00
+    title: "Answering the Important Question: Where's My Money? (Part 2)"
+    authors: [causallycausal, ]
+    filename: loan-defaults-p2
+    cover-image: 'https://com-usnews-beam-media.s3.amazonaws.com/4f/18053692c8e155903c849b01689992/47951widemodern_default_131001.jpg'
+    tags: [machine learning, data science, finance, statistics, ]
+    room: BIO 209
+    abstract: >-
       We continue our deep dive into the wonderful world of loan defaults. Does
       the loan grading of creditors line up with what reality shows? Use machine
       learning to find out!
-  optional:
-    date: ""
-    tags: ["machine-learning", "data science", "finance", "statistics"]
-    slides: ""
-    papers: []
+  optional:  # All `optional` keys are enumerated in the Documentation
     kaggle:
-      datasets: []
-      competitions: ["ucfai-dsg-fa19-default"]
-      kernels: []
-
-- required:
-    title: "Introducing the NFL Big Data Bowl"
-    filename: "nfl-intro"
-    cover: "https://operations.nfl.com/media/3607/big-data-bowl_baked.jpg?anchor=center&mode=crop&width=1417&height=740&rnd=131956651790000000&quality=85"
-    instructors: ["AHKerrigan"]
-    description: >-
+      competitions: ["ucfai-dsg-fa19-default", ]
+- !Meeting
+  required:
+    id: 02bd0d1ba8b748d9358b7d92e4026786f78890833071c2067ae912aa2a3d00fe
+    date: !Timestamp 2019-10-17 17:30:00
+    title: Introducing the NFL Big Data Bowl
+    authors: [ahkerrigan, ]
+    filename: nfl-intro
+    cover-image: 'https://operations.nfl.com/media/3607/big-data-bowl_baked.jpg?anchor=center&mode=crop&width=1417&height=740&rnd=131956651790000000&quality=85"'
+    tags: [machine learning, data science, football, competition, ]
+    room: BIO 209
+    abstract: >-
       AI@UCF has started its first data science competition! The National Football League's 
       $75,000 competition challenges you with using player stats, position, and time data
       to predict the future number of yards gained. Come join us as we dive into this competition
       and learn how to get started.
-  optional:
-    date: ""
-    tags: ["machine-learning", "data science", "football", "competition"]
-    slides: ""
-    papers: []
+  optional:  # All `optional` keys are enumerated in the Documentation
     kaggle:
-      datasets: []
-      competitions: ["nfl-big-data-bowl-2020"]
-      kernels: []
-
-- required:
-    title: "Big Data Bowl Deep Dive"
-    filename: "nfl-deep-dive"
-    cover: "https://oaklandnewsnow.com/wp-content/uploads/2018/08/National-Football-League-777x437.jpg"
-    instructors: ["AHKerrigan"]
-    description: >-
+      competitions: ["nfl-big-data-bowl-2020", ]
+- !Meeting
+  required:
+    id: 1367f61cfe397e862d1c2465bdf4cbea5298c37c980328a36c43556e356119b7
+    date: !Timestamp 2019-10-24 17:30:00
+    title: Big Data Bowl Deep Dive
+    authors: [ahkerrigan, ]
+    filename: nfl-deep-dive
+    cover-image: 'https://oaklandnewsnow.com/wp-content/uploads/2018/08/National-Football-League-777x437.jpg'
+    tags: [machine learning, data science, football, competition, ]
+    room: BIO 209
+    abstract: >-
       This week we dive even deeper in to the NFL Big Data Bowl and try to understand 
-      what techniques are needed to achieve a competitive result. Let's fill the leaderboard
-      with [AI@UCF]!
-  optional:
-    date: ""
-    tags: ["machine-learning", "data science", "football", "competition"]
-    slides: ""
-    papers: []
+      what techniques are needed to achieve a competitive result. Let's fill the leaderboard with AI@UCF!
+  optional:  # All `optional` keys are enumerated in the Documentation
     kaggle:
-      datasets: []
-      competitions: ["nfl-big-data-bowl-2020"]
-      kernels: []
-
-- required:
-    title: "Project Updates"
-    filename: "project-updates"
-    cover: "https://dv-website.s3.amazonaws.com/uploads/2019/04/pg_dmodml_052119.jpg"
-    instructors: ["AHKerrigan"]
-    description: >-
+      competitions: ["nfl-big-data-bowl-2020", ]
+- !Meeting
+  required:
+    id: 3e589fcdc955f69df131662e4428e5ba2a97cd1e6c2efe62037de2ee3b950bca
+    date: !Timestamp 2019-10-31 17:30:00
+    title: Project Updates
+    authors: [ahkerrigan, ]
+    filename: project-updates
+    cover-image: 'https://dv-website.s3.amazonaws.com/uploads/2019/04/pg_dmodml_052119.jpg'
+    tags: [machine learning, data science, projects, ]
+    room: BIO 209
+    abstract: >-
       The groups will give the club an update on the progress of their project
       and other work they have been doing over the semester. We will use this
       time to catch up on concepts, help each other with issues, and share new
       ideas.
-  optional:
-    date: ""
-    tags: ["machine-learning", "data science", "finance", "statistics"]
-    slides: ""
-    papers: []
-    kaggle:
-      datasets: []
-      competitions: []
-      kernels: []
-
-- required:
-    title: "Data Science for Social Good, with PBS KIDS"
-    filename: "data-sci-bowl"
-    cover: "https://www.usnews.com/dims4/USNEWS/8db4ec0/2147483647/thumbnail/640x420/quality/85/?url=http%3A%2F%2Fcom-usnews-beam-media.s3.amazonaws.com%2F4f%2F18053692c8e155903c849b01689992%2F47951widemodern_default_131001.jpg"
-    instructors: ["ionlights"]
-    description: >-
+    use-notebooks: false
+  optional:  # All `optional` keys are enumerated in the Documentation
+    kaggle: false
+- !Meeting
+  required:
+    id: b914b7d0fd34cbfcf7807e5aaa89c8275cb76b66d879e223d684f26635a44f7e
+    date: !Timestamp 2019-11-07 17:30:00
+    title: Data Science for Social Good, with PBS KIDS
+    authors: [ionlights, ]
+    filename: data-sci-bowl
+    cover-image: ''
+    tags: [machine learning, data science, data visualization, data science bowl, kaggle, live coding, ]
+    room: BIO 209
+    abstract: >-
       We'll be taking a dive into the Data Science Bowl from Kaggle, live-coding
       style. Let's work through the dataset together and see what we can pull from
       it to make some submissions. 
-  optional:
-    date: ""
-    tags: ["machine-learning", "data-science", "data-science-bowl", "live-coding"]
-    slides: ""
-    papers: []
+  optional:  # All `optional` keys are enumerated in the Documentation
     kaggle:
-      datasets: []
-      competitions: ["data-science-bowl-2019"]
-      kernels: []
-
-- required:
-    title: "Continuing with Data Science for Social Good"
-    filename: "placeholder"
-    cover: "https://www.usnews.com/dims4/USNEWS/8db4ec0/2147483647/thumbnail/640x420/quality/85/?url=http%3A%2F%2Fcom-usnews-beam-media.s3.amazonaws.com%2F4f%2F18053692c8e155903c849b01689992%2F47951widemodern_default_131001.jpg"
-    instructors: ["ionlights]
-    description: >-
+      competitions: ["data-science-bowl-2019", ]
+- !Meeting
+  required:
+    id: cebdadd4fdcde94eb6eea2edcbe663d4df6d06f8ef91ca2c1bd3afb1ff4318cb
+    date: !Timestamp 2020-11-14 17:30:00
+    title: Continuing with Data Science for Social Good
+    authors: [ionlights]
+    filename: data-sci-bowl-continued
+    cover-image: ''
+    tags: [machine learning, data science, data visualization, data science bowl, kaggle, live coding, ]
+    room: BIO 209
+    abstract: >-
       We'll pick up from last week, continuing through the PBS KIDS dataset. 
       This week we'll dig deeper into the encoding scheme of the data and developing 
       an understanding of the flow of information so we can work towards building a time-series model.
-
-  optional:
-    date: ""
-    tags: ["machine-learning", "data science", "finance", "statistics"]
-    slides: ""
-    papers: []
+  optional:  # All `optional` keys are enumerated in the Documentation
     kaggle:
-      datasets: []
-      competitions: []
-      kernels: []
-
-- required:
-    title: "Project Presentations"
-    filename: "projects"
-    cover: "https://www.ataccama.com/assets/img/articles/machine-learning.png"
-    instructors: ["AHKerrigan"]
-    description: >-
+      competitions: ["data-science-bowl-2019", ]
+- !Meeting
+  required:
+    id: 43c316921632d149a2e626c58f8ad5e4fd4aec01bef6970954cddd72f0235c3e
+    date: !Timestamp 2020-11-21 17:30:00
+    title: Project Presentations
+    authors: [ahkerrigan, ionlights, ]
+    filename: project-presentations
+    cover-image: 'https://www.ataccama.com/assets/img/articles/machine-learning.png'
+    tags: [machine learning, data science, projects, presentations, ]
+    room: BIO 209
+    abstract: >-
       The project groups will be presenting and giving an overview of what they worked on this semester!
       Come out and learn about awesome machine learning applications developed by your fellow Knights!
-  optional:
-    date: ""
-    tags: ["machine-learning", "data science", "finance", "statistics"]
-    slides: ""
-    papers: []
-    kaggle:
-      datasets: []
-      competitions: []
+    use-notebooks: false
+  optional:  # All `optional` keys are enumerated in the Documentation
+    kaggle: false

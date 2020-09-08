@@ -1,0 +1,16 @@
+!Group
+required:
+  name: projects
+  room: BIO 209
+  semester: fa19
+  startdate: !Timestamp 2019-09-19 17:30:00
+  frequency: 1
+  directors: [ahkerrigan, ]
+  coordinators: [causallycausal, hevia]
+  guests: []
+  advisors: [ionlights, ]
+  summary: >
+
+optional:  # All `optional` keys are enumerated in the Documentation
+  use-kaggle: true
+  use-notebooks: true
