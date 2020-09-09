@@ -2,14 +2,17 @@
   required:
     id: 8f863b4f2ad5d2600cb549cf885be1065f9423efbd7526a3f3e73457fab26bb7
     date: !Timestamp 2020-09-10 18:00:00
-    title: meeting00
+    title: 'Project Brainstorm'
     authors: ["nspeer12"]
-    filename: meeting00
+    filename: 'project-brainstorm'
     cover-image: ''
     tags: []
     room: ''
     abstract: >-
-      We're filling this out!
+      Find your next AI project at our brainstorm meeting! You'll have a chance to meet
+      fellow student developers and get advice from our leadership on how to bring your
+      ideas to life. Meet new friends and join a team that's commited to solving
+      interesting problems with the power of AI.
     needs-notebooks: false
   optional:  # All `optional` keys are enumerated in the Documentation
     urls: {}
