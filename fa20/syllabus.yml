@@ -15,7 +15,8 @@
       interesting problems with the power of AI.
     needs-notebooks: false
   optional:  # All `optional` keys are enumerated in the Documentation
-    urls: {}
+    urls:
+      slides: '1yivo4iOWnr9I2dUPfh3A5o4ryLAyFZnd9wFIRC-JtwA'
     kaggle: {}
     papers: {}
 - !Meeting
