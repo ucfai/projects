@@ -1,4 +1,4 @@
-# Project Brainstorm
+## Project Brainstorm
 
 ## Agenda
 - Overview of `projects`
