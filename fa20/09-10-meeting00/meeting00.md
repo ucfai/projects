@@ -1,2 +1,6 @@
-<!-- TODO Add Meeting Notes/Contents here -->
-<!-- NOTE Refer the Documentation if you're unsure how to format/add to this. -->
+## Project Brainstorm
+
+## Agenda
+- Overview of `projects`
+- Project Brainstorm
+- Form teams in breakout rooms
