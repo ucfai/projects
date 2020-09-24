@@ -26,12 +26,14 @@
     title: 'Google Assistant Workshop'
     authors: ["nspeer12", "flyinactor91"]
     filename: 'google-assistant'
-    cover-image: ''
+    cover-image: 'https://drive.google.com/file/d/1lm4S91El8ZSyWeze_2Vjyfdm_84PsQVF/view?usp=sharing'
     tags: []
     room: ''
     abstract: >-
-      Build a chatbot with Google Assistant! In this workshop, we'll teach you
-      the basics of Dialogflow and how to send webhooks to a Flask app.
+      Build a chatbot for Google Assistant! In this workshop, you'll learn the
+      basics of Dialogflow, Google's chatbot tool. Then, you will learn how to
+      connect your chatbot to a Python Flask web application. With this magic,
+      you'll be able to execute any code by using your voice!
     needs-notebooks: false
   optional:  # All `optional` keys are enumerated in the Documentation
     urls: {}
