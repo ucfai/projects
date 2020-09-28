@@ -42,11 +42,11 @@
     id: 6dc27ebdfd28b038c01891fea481029ae06bced5aae1c42b91c96609e98a8263
     date: !Timestamp 2020-10-8 18:00:00
     title: 'Docker Workshop'
-    authors: ["hevia"]
+    authors: ["Anthony Hevia"]
     filename: 'docker'
-    cover-image: ''
-    tags: []
-    room: ''
+    cover-image: 'https://miro.medium.com/max/2404/1*JUOITpaBdlrMP9D__-K5Fw.png'
+    tags: ['docker', 'devops']
+    room: 'Online over Zoom'
     abstract: >-
       Learn the basics of Docker to simplify your developer environment. In this
       workshop, you'll learn what Docker is and how it can be used for Machine
