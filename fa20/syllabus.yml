@@ -61,14 +61,14 @@
     id: f29fd30d995b70644cc34d151e5547f7da5c92fd1c1fb501ffd9fdfc4f0e3c04
     date: !Timestamp 2020-10-22 18:00:00
     title: 'Data Visualization with Seaborn'
-    authors: []
+    authors: ["bb912", "sagejacob", "cokeacolaking"]
     filename: 'data-visualization'
     cover-image: ''
     tags: []
     room: ''
     abstract: >-
       Learn how to beautifully visualize data with Seaborn.
-    needs-notebooks: false
+    needs-notebooks: true
   optional:  # All `optional` keys are enumerated in the Documentation
     urls: {}
     kaggle: {}
