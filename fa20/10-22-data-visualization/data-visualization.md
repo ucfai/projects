@@ -7,3 +7,9 @@
 - Box Plots, Distribution Plots, ScatterPlots
 - Some Geospatial visualizations with Folium
 - A tiny bit of regression modeling, but the focus is DataViz!
+
+## Kaggle Link
+- If you don't want to run this locally: 
+- https://www.kaggle.com/bbissey/datacleaning-and-seaborn-ai-ucf-workshop-blank
+- https://www.kaggle.com/bbissey/datacleaning-and-seaborn-ai-ucf-workshop-solution
+ 
