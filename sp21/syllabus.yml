@@ -1,182 +1,47 @@
 # Check the Docs for details on editing this!
 - id: "eb2c4e91-770f-4073-9734-dc11eb53019a"
-  title: "meeting00"
+  title: "Projects Interest Meeting"
   filename: "meeting00"
-  date: "2021-01-25T00:00:00"
-  authors: []
+  date: "2021-01-28T18:00:00"
+  authors: ["nspeer12"]
   cover_image: ""
   tags: []
   room: ""
   abstract: >-
-    We're filling this out!
+    Interested in building an AI project but don't know where
+    to get started? Join us to learn more about our ongoing project
+    and how to get involved!
   urls: {}
   kaggle: {}
   papers: {}
 # Check the Docs for details on editing this!
 - id: "1e9298ab-fdf6-4aea-9aa7-ae82fc76cf84"
-  title: "meeting01"
+  title: "Full Stack AI Web Apps"
   filename: "meeting01"
-  date: "2021-02-01T00:00:00"
+  date: "2021-02-11T18:00:00"
   authors: []
   cover_image: ""
   tags: []
   room: ""
   abstract: >-
-    We're filling this out!
+    Learn how to make full stack web applications with Python and Flask.
+    In this workshop, we'll learn how to put AI models online.
   urls: {}
   kaggle: {}
   papers: {}
 # Check the Docs for details on editing this!
 - id: "6a2e3602-2e8c-4a26-83e8-baa910de461c"
-  title: "meeting02"
+  title: "Intro to Reinforcement Learning"
   filename: "meeting02"
-  date: "2021-02-08T00:00:00"
+  date: "2021-02-25T18:00:00"
   authors: []
   cover_image: ""
   tags: []
   room: ""
   abstract: >-
-    We're filling this out!
-  urls: {}
-  kaggle: {}
-  papers: {}
-# Check the Docs for details on editing this!
-- id: "dc6a3220-68e5-43c5-b3c2-1ed65f4f33bd"
-  title: "meeting03"
-  filename: "meeting03"
-  date: "2021-02-15T00:00:00"
-  authors: []
-  cover_image: ""
-  tags: []
-  room: ""
-  abstract: >-
-    We're filling this out!
-  urls: {}
-  kaggle: {}
-  papers: {}
-# Check the Docs for details on editing this!
-- id: "d74d9109-9a2c-41ab-b1d7-ba5127ced298"
-  title: "meeting04"
-  filename: "meeting04"
-  date: "2021-02-22T00:00:00"
-  authors: []
-  cover_image: ""
-  tags: []
-  room: ""
-  abstract: >-
-    We're filling this out!
-  urls: {}
-  kaggle: {}
-  papers: {}
-# Check the Docs for details on editing this!
-- id: "6a1293fe-7644-4554-b398-de214485e548"
-  title: "meeting05"
-  filename: "meeting05"
-  date: "2021-03-01T00:00:00"
-  authors: []
-  cover_image: ""
-  tags: []
-  room: ""
-  abstract: >-
-    We're filling this out!
-  urls: {}
-  kaggle: {}
-  papers: {}
-# Check the Docs for details on editing this!
-- id: "9d650832-42df-4bc9-b868-8a166ec0c598"
-  title: "meeting06"
-  filename: "meeting06"
-  date: "2021-03-08T00:00:00"
-  authors: []
-  cover_image: ""
-  tags: []
-  room: ""
-  abstract: >-
-    We're filling this out!
-  urls: {}
-  kaggle: {}
-  papers: {}
-# Check the Docs for details on editing this!
-- id: "2fc20a84-2367-4183-b616-f0a52a4bb7d1"
-  title: "meeting07"
-  filename: "meeting07"
-  date: "2021-03-15T00:00:00"
-  authors: []
-  cover_image: ""
-  tags: []
-  room: ""
-  abstract: >-
-    We're filling this out!
-  urls: {}
-  kaggle: {}
-  papers: {}
-# Check the Docs for details on editing this!
-- id: "a7c61a1d-e855-408c-aac1-270b39cafa73"
-  title: "meeting08"
-  filename: "meeting08"
-  date: "2021-03-22T00:00:00"
-  authors: []
-  cover_image: ""
-  tags: []
-  room: ""
-  abstract: >-
-    We're filling this out!
-  urls: {}
-  kaggle: {}
-  papers: {}
-# Check the Docs for details on editing this!
-- id: "1e804cad-51d2-4201-8c4c-c183421af235"
-  title: "meeting09"
-  filename: "meeting09"
-  date: "2021-03-29T00:00:00"
-  authors: []
-  cover_image: ""
-  tags: []
-  room: ""
-  abstract: >-
-    We're filling this out!
-  urls: {}
-  kaggle: {}
-  papers: {}
-# Check the Docs for details on editing this!
-- id: "0a128c9b-cb81-4749-af3e-f40f565d9133"
-  title: "meeting10"
-  filename: "meeting10"
-  date: "2021-04-05T00:00:00"
-  authors: []
-  cover_image: ""
-  tags: []
-  room: ""
-  abstract: >-
-    We're filling this out!
-  urls: {}
-  kaggle: {}
-  papers: {}
-# Check the Docs for details on editing this!
-- id: "e1aac94a-f756-4fa6-a4ee-7c8f3036c7c0"
-  title: "meeting11"
-  filename: "meeting11"
-  date: "2021-04-19T00:00:00"
-  authors: []
-  cover_image: ""
-  tags: []
-  room: ""
-  abstract: >-
-    We're filling this out!
-  urls: {}
-  kaggle: {}
-  papers: {}
-# Check the Docs for details on editing this!
-- id: "06af4f8f-0b00-420e-9b6b-ceac44e92ea0"
-  title: "meeting12"
-  filename: "meeting12"
-  date: "2021-04-26T00:00:00"
-  authors: []
-  cover_image: ""
-  tags: []
-  room: ""
-  abstract: >-
-    We're filling this out!
+    How can we make computers learn? In this workshop, we'll go over
+    reinforcement learning, the technique that allows computers to learn
+    through trial and error.
   urls: {}
   kaggle: {}
   papers: {}
