@@ -3,8 +3,8 @@ name: "projects"
 room: ""
 semester: "sp21"
 startdate: "2021-01-18T00:00:00"
-directors: []
-coordinators: []
+directors: ['nspeer12']
+coordinators: ['bb912', 'phongphattharasiri', 'dan100ws']
 guests: []
 advisors: []
 abstract: >-
